@@ -10,7 +10,7 @@ PascalABC.NET Ivan Bondarev, Stanislav Mikhalkovich
         <Property name="LineComment" value="//"/>
     </Properties>
 
-    <Digits name = "Digits" bold = "false" italic = "false" color = "Black"/>
+    <Digits name = "Digits" bold = "false" italic = "false" color = "DarkGreen"/>
 
     <RuleSets>
         <RuleSet ignorecase="true">
@@ -109,13 +109,13 @@ PascalABC.NET Ivan Bondarev, Stanislav Mikhalkovich
                 <Key word = "auto" />
             </KeyWords> 
 
-            <KeyWords name = "Classes" bold = "false" italic = "false" color = "Blue">
+            <KeyWords name = "Classes" bold = "false" italic = "false" color = "Red">
                 <Key word = "class" />
                 <Key word = "record" />
                 <Key word = "interface" />
             </KeyWords> 
 
-            <KeyWords name = "ProgramSections" bold = "false" italic = "false" color = "Blue">
+            <KeyWords name = "ProgramSections" bold = "false" italic = "false" color = "DarkGreen">
                 <Key word = "uses" />
                 <Key word = "unit" />
                 <Key word = "library" />
