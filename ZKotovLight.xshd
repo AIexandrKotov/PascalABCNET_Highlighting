@@ -58,11 +58,6 @@ PascalABC.NET Ivan Bondarev, Stanislav Mikhalkovich
                 <End>'</End>
             </Span>
 
-            <Span name = "Generic" rule="Default" bold = "false" italic = "false" color = "DarkCyan" stopateol = "true">
-                <Begin>&#x3C;</Begin>
-                <End>></End>
-            </Span>
-
             <KeyWords name = "KeyWords" bold = "false" italic = "false" color = "Blue">
                 <Key word = "external" />
                 <Key word = "in" />
