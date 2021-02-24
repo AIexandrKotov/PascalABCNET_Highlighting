@@ -53,5 +53,7 @@ begin
   except on e: Exception do
   end;
   
+  var vv := new class(a := 1);
+  
   var a := nil as object;
 end.
